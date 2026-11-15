@@ -1,0 +1,6 @@
+{
+  "name": "BizSphere",
+  "description": "BizSphere – Digital Khata: Business Management, Customer Ledger, Income & Expense, PDF/Image Invoices, Reports & Real-time Cloud Sync",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
